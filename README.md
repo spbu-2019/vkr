@@ -14,9 +14,9 @@ In process...
 
 ## Authors
 
-* **Pavel Kiva** 
+* **Pavel Kiva** - *bachelor, Saint-Petersburg State University*
 
 ## Acknowledgments
 
-* Scientific supervisor: Natalia Grafeyeva
+* **Natalia Grafeyeva** - *scientific supervisor, Saint-Petersburg State University*
 * See also the references and more details in Graduation Thesis 
