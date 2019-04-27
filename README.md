@@ -9,8 +9,9 @@ In process...
 
 ## Built With
 
-* [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) - The Python IDE 
+* [Python](https://www.python.org/) - Used programming language
 * [Scikit-Learn](https://scikit-learn.org/stable/) - Tools for data mining and data analysis
+* [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE by JetBrains
 
 ## Authors
 
