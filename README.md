@@ -21,6 +21,8 @@ Briefly about how to run the Python file is listed [here](http://www.cs.bu.edu/c
 
 * To get the *"Feature Importance"* for all algorithms with bar chart images, run the file [universal_feature_importance.py](https://github.com/spbu-2019/vkr/blob/master/universal_feature_importance.py)
 
+
+
 ## Examples
 
 The report of each algorithm looks like this:
